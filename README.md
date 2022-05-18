@@ -47,7 +47,7 @@ The last parameter is the replay ID, which is the position in the stream from wh
 ### Push Topics, Platform Events, Generic Events, Change Data Capture Events
 
 #### Push Topics
-- ErrorLogPushTopic `$ java -classpath target/emp-connector-0.0.1-SNAPSHOT-phat.jar com.salesforce.emp.connector.example.DevLoginExample https://login.salesforce.com kevinwinn@financialforce.com BTR@qun2ega9qzp.yevGbnYpi5VLLOVhJMsduttP2Uj /topic/ErrorLogPushTopic`
+- ErrorLogPushTopic `$ java -classpath target/emp-connector-0.0.1-SNAPSHOT-phat.jar com.salesforce.emp.connector.example.DevLoginExample https://login.salesforce.com kevinwinn@financialforce.com ******************* /topic/ErrorLogPushTopic`
 ![PushTopic](/docs/PushTopic.gif)
 
 ## Subscription Filtering for PushTopic Channels
